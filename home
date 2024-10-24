@@ -1,0 +1,75 @@
+<html> 
+    <head> 
+        <title>Wreckfest</title> 
+        
+        <style> 
+            body{ 
+            width:1000px; 
+            margin:auto; 
+            background-color:white;
+            } 
+            
+            header{ 
+            background-color:black; 
+            } 
+
+            main{
+            background-color:yellow; 
+            height:500px; 
+            } 
+
+            footer{ 
+
+            background-color:yellow; 
+
+            height:100px; 
+
+            } 
+
+             
+
+            nav ul {list-style-type:none;} 
+
+            nav ul li {float:left;width:80px;text-align:center} 
+
+            nav ul li a {display:block;padding:8px} 
+
+            nav ul li a:hover [background-color:#000;color:white] 
+
+        </style> 
+
+    </head> 
+
+     
+
+    <body> 
+
+        <header> 
+
+            <img src = "wreckfestlogo.png"/> 
+
+        </header> 
+
+        <main>            
+            <ul> 
+                <li><a href = "">Calendar</a></li> 
+                <li><a href = "">Driver's</a></li> 
+                <li><a href = "">Teams</a></li> 
+                <li><a href = "">Results</a></li> 
+                <li><a href = "">Results</a></li> 
+                <li><a href = "">Standings</a></li> 
+                <li><a href = "">News</a></li> 
+            </ul> 
+        </main> 
+
+         
+
+        <footer></footer> 
+
+     
+
+    </body> 
+
+  
+
+</html> 
